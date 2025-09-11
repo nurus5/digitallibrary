@@ -9,6 +9,7 @@ Berikut ini adalah koleksi yang dimiliki:
 2. [Batik Tambal Anom](ebook/Batik Tambal Anom.pdf) - Dewi Nastiti & Robby Hardian (2020)
 3. [Siapa Dia?](ebook/Siapa Dia.pdf) - Tuti Adhayati & Maman Sulaeman (2022)
 4. [Bicara Itu Ada Seninya: Rahasia Komunikasi Yang Efektif](ebook/Bicara itu ada seninya.pdf) - Oh Su Hyang (2018)
+5. [10 Step To A More Fulfilling Life](ebook/10 Step To A More Fulfilling Life.pdf) - Dale Carnegie (2015)
 
 ---
 
