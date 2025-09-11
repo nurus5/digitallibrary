@@ -13,6 +13,7 @@ Berikut ini adalah koleksi yang dimiliki:
 6. [Ilmu Bisnis Tionghoa](ebook/Ilmu Bisnis Tionghoa.pdf) - Thomas Liem Tjoe (2012)
 7. [Nunchi Seni Membaca Pikiran dan Perasaan Orang Lain](ebook/Nunchi Seni Membaca Pikiran.pdf) - Euny Hong (2020)
 8. [Mindset] (ebook/Mindset.pdf)- Dr Carol S. Dweck (2017)
+9. [Baca Buku Ini Saat Engkau Ingin Berubah](ebook/Saat Engkau Ingin Berubah.pdf) - Rahma Kusharjanti (2020)
 ---
 
 *Powered by GitHub Pages*
