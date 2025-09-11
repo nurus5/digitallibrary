@@ -12,7 +12,7 @@ Berikut ini adalah koleksi yang dimiliki:
 5. [10 Step To A More Fulfilling Life](ebook/10 Step To A More Fulfilling Life.pdf) - Dale Carnegie (2015)
 6. [Ilmu Bisnis Tionghoa](ebook/Ilmu Bisnis Tionghoa.pdf) - Thomas Liem Tjoe (2012)
 7. [Nunchi Seni Membaca Pikiran dan Perasaan Orang Lain](ebook/Nunchi Seni Membaca Pikiran.pdf) - Euny Hong (2020)
-8. [Mindset](ebook/Mindset.pdf)- Dr Carol S. Dweck (2017)
+8. [Mindset] (ebook/Mindset.pdf)- Dr Carol S. Dweck (2017)
 ---
 
 *Powered by GitHub Pages*
