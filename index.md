@@ -15,7 +15,7 @@ Berikut ini adalah koleksi yang dimiliki:
 8. [Mindset] (ebook/Mindset.pdf)- Dr Carol S. Dweck (2017)
 9. [Baca Buku Ini Saat Engkau Ingin Berubah](ebook/Saat Engkau Ingin Berubah.pdf) - Rahma Kusharjanti (2020)
 10. [The 7 Habits Of Highly Effective People](ebook/The 7 habits of highly effective people.pdf) - Stephen R.Covey (1989)
-11. [Resume](ebook/resume.pdf) - Nurus Shobihah (2025)
+11. [Resume] (ebook/resume.pdf) - Nurus Shobihah (2025)
 ---
 
 *Powered by GitHub Pages*
