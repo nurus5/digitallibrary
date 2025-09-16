@@ -16,7 +16,7 @@ Berikut ini adalah koleksi yang dimiliki:
 9. [Baca Buku Ini Saat Engkau Ingin Berubah](ebook/Saat Engkau Ingin Berubah.pdf) - Rahma Kusharjanti (2020)
 10. [The 7 Habits Of Highly Effective People](ebook/The 7 habits of highly effective people.pdf) - Stephen R.Covey (1989)
 11. [Resume](ebook/Resume VR.pdf) - Nurus Shobihah (2025)
-12. [halaman1.html] (webti/halaman1.html) - Nurus Shobihah (2025)
+
 ---
 <a href="webti/halaman1.html"> Halaman 1 </a>|
 *Powered by GitHub Pages*
